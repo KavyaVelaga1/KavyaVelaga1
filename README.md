@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KavyaVelaga1
-- 👀 I’m passionate about data analytics with interests in predictive analytics, data visualization, and machine learning.
+- 👋 Hi, I’m Kavya Velaga
+- I’m passionate about data analytics with interests in predictive analytics, data visualization, and machine learning.
 - Skilled in SQL, Power BI, Tableau, Excel, and Python.
 - I enjoy uncovering insights from complex datasets to drive informed decision-making and enhance business strategies. 
-- 😄 Pronouns: she/her
+- Pronouns: she/her
   
 
 <!---
