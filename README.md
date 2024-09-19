@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavya Velaga
-- I’m passionate about data analytics with interests in predictive analytics, data visualization, and machine learning.
-- Skilled in SQL, Power BI, Tableau, Excel, and Python.
+- I am skilled in SQL, Power BI, Tableau, R, Excel, and Python.
+- I’m passionate about data analytics with interests in statistics, predictive analytics, data visualization, and machine learning.
 - I enjoy uncovering insights from complex datasets to drive informed decision-making and enhance business strategies. 
 - Pronouns: she/her
   
