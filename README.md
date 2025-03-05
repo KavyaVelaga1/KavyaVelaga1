@@ -1,4 +1,4 @@
-Hi 👋, I'm Kavya Velaga! - Data Enthusiast!
+Hi 👋, I'm Kavya Velaga - Data Enthusiast!
 
 I’m passionate about all things data and enjoy sharing insights through analytics and visualizations.
 
