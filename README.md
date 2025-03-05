@@ -8,3 +8,5 @@ I thrive on transforming complex datasets into actionable insights that drive in
 
 Pronouns: She/Her
   
+
+- **Microsoft Certified Power Bi Data Analyst Associate** — [View Certificate](https://learn.microsoft.com/en-us/users/velagakavya-1650/credentials/f0252fdee486365d)
