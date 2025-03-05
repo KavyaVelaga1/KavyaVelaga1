@@ -2,7 +2,14 @@ Hi 👋, I'm Kavya Velaga - Data Enthusiast!
 
 I’m passionate about all things data and enjoy sharing insights through analytics and visualizations.
 
-As a data analyst, I specialize in statistics, predictive analytics, data visualization, and machine learning using SQL, Tableau, Python, R, and Excel.
+## Data Insights
+
+As a **data analyst**, I specialize in **data visualization** using **SQL**, **Tableau**, **Python**, **R**, and **Excel**.
+
+Some key insights I work with:
+- <span style="color:red;">This is important red data point</span>
+- <span style="color:blue;">This is another critical blue data point</span>
+
 
 I thrive on transforming complex datasets into actionable insights that drive informed decision-making and enhance business strategies.
   
