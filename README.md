@@ -12,5 +12,5 @@ Pronouns: She/Her
 
 - **Tableau Certified Desktop Specialist** — [View Certificate](https://www.credly.com/badges/b5d6043a-0034-4ca9-8184-4273a12d89cb/public_url)
 
-- - **Scrum Certified Product Owner** — [View Certificate](https://certification.scrumalliance.org/accounts/1722577-kavya-velaga/certifications/2038913-cspo))
+- - **Scrum Certified Product Owner** — [View Certificate](https://certification.scrumalliance.org/accounts/1722577-kavya-velaga/certifications/2038913-cspo)
 
