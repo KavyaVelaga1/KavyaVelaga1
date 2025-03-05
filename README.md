@@ -1,8 +1,7 @@
 Hi 👋, I'm **Kavya Velaga** - **Data Enthusiast!**
 
 ## What I Do
-I work at the intersection of business and data, helping organizations harness their data for smarter decision-making. 
-As a **Data Analyst**, I specialize in data collection, cleaning, analysis, and visualization, turning raw data into actionable insights. Through statistical analysis and predictive modeling, I uncover trends and create clear visualizations and reports that drive business strategy, automate processes, and optimize performance. I'm passionate about transforming complex data into simple, impactful stories that solve real-world business problems.
+I help organizations turn data into actionable insights for smarter decision-making. As a Data Analyst, I specialize in data collection, cleaning, analysis, and visualization, using statistical analysis and predictive modeling to uncover trends. I create clear reports and visualizations that drive strategy, automate processes, and optimize performance.
 
 ## Key Skills & Technologies
 - **SQL**: Skilled in querying large datasets, performing complex data transformations, and optimizing queries for fast performance.
